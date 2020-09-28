@@ -91,7 +91,7 @@ import json
 from glob import glob
 from PIL import Image
 import pickle
-
+from tqdm import tqdm
 
 # ## Download and prepare the MS-COCO dataset
 #
