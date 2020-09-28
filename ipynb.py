@@ -130,10 +130,6 @@ else:
 # In[21]:
 
 
-get_ipython().system('ls ')
-# !pwd
-# os.path.abspath('.')
-
 
 # In[ ]:
 
